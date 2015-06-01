@@ -21,7 +21,7 @@
                           </br>
                         
                       <label>
-                      <div align="center">hola cambio </div>
+                      <div align="center">password </div>
                       </label>
                       <div align="center">
                         <input class="inputfield" name="pw" type="password" /> <br>
